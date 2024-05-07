@@ -1,5 +1,5 @@
-- 🔭 Desenvolvedor Front-end
-- 🌱 Estudando Typescript e React
+- 🔭 Front-end Developer (FullStack... ⏳).
+- 🌱 Learning  React, Node and Typescript.
 
 ##
 
